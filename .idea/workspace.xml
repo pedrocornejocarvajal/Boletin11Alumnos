@@ -4,18 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="970e79d1-3307-402d-974a-a24fedf564f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Boletin11Alumnos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Clases/Alumno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Clases/CreaFicheroAlumno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Clases/GestionAlumno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controlador/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Unidad 11_Boletín.pdf" afterDir="false" />
+    <list default="true" id="970e79d1-3307-402d-974a-a24fedf564f2" name="Changes" comment="primer commit">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clases/CreaFicheroAlumnos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clases/GestionAlumnos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Clases/Alumno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Clases/CreaFicheroAlumno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Clases/GestionAlumno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controlador/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controlador/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +45,9 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/pcornejo/IdeaProjects/Gestion Alumnos",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -56,6 +55,68 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.GestionAlumnos">
+    <configuration name="CreaFicheroAlumnos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clases.CreaFicheroAlumnos" />
+      <module name="Boletin11Alumnos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Clases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GestionAlumnos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clases.GestionAlumnos" />
+      <module name="Boletin11Alumnos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Clases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Controlador.Main" />
+      <module name="Boletin11Alumnos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Controlador.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAlumno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.TestAlumno" />
+      <module name="Boletin11Alumnos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GestionAlumnos" />
+        <item itemvalue="Application.CreaFicheroAlumnos" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TestAlumno" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,8 +126,18 @@
       <option name="presentableId" value="Default" />
       <updated>1652699555391</updated>
       <workItem from="1652699559125" duration="1726000" />
-      <workItem from="1652703050038" duration="1440000" />
+      <workItem from="1652703050038" duration="1555000" />
+      <workItem from="1652772121527" duration="59000" />
+      <workItem from="1652871066533" duration="2443000" />
     </task>
+    <task id="LOCAL-00001" summary="primer commit">
+      <created>1652704530735</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652704530735</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,5 +156,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="primer commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="primer commit" />
   </component>
 </project>
