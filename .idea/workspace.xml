@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="970e79d1-3307-402d-974a-a24fedf564f2" name="Changes" comment="acabado">
-      <change afterPath="$PROJECT_DIR$/Alumnos.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controlador/MainGestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alumnos.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Alumnos.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Clases/Alumno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Clases/Alumno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Clases/GestionAlumnos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Clases/GestionAlumnos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controlador/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controlador/MainIntroducido.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,22 +38,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/pcornejo/IdeaProjects/Gestion Alumnos",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pcornejo/IdeaProjects/Gestion Alumnos&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.GestionAlumnos">
+}</component>
+  <component name="RunManager" selected="Application.MainGestion">
     <configuration name="CreaFicheroAlumnos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Clases.CreaFicheroAlumnos" />
       <module name="Boletin11Alumnos" />
@@ -75,8 +80,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Controlador.Main" />
+    <configuration name="MainGestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Controlador.MainGestion" />
+      <module name="Boletin11Alumnos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Controlador.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainIntroducido" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Controlador.MainIntroducido" />
       <module name="Boletin11Alumnos" />
       <extension name="coverage">
         <pattern>
@@ -103,9 +121,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainGestion" />
+        <item itemvalue="Application.MainIntroducido" />
         <item itemvalue="Application.GestionAlumnos" />
         <item itemvalue="Application.CreaFicheroAlumnos" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.TestAlumno" />
       </list>
     </recent_temporary>
@@ -122,6 +141,8 @@
       <workItem from="1652703050038" duration="1555000" />
       <workItem from="1652772121527" duration="59000" />
       <workItem from="1652871066533" duration="3386000" />
+      <workItem from="1652914549166" duration="1096000" />
+      <workItem from="1653333305806" duration="317000" />
     </task>
     <task id="LOCAL-00001" summary="primer commit">
       <created>1652704530735</created>

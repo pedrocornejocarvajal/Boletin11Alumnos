@@ -154,7 +154,7 @@ public class Alumno {
 			cadena=cadena+"|"+notas[i];
 		}
 		
-		return cadena+"|";
+		return cadena+"| \n";
 		
 	}
 	
